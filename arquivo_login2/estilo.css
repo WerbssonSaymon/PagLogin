@@ -1,0 +1,19 @@
+* {
+	padding: 0;
+}
+form {
+	display: block;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+h1 {
+	text-align: center;
+	font-size: 25pt;
+}
+input {
+	width: 80%;
+	margin: auto;
+}
+button {
+	width: 70%;
+}
